@@ -1,6 +1,7 @@
 # Hi, I'm Kavinda Kalum 👋
 
-IT undergraduate at **SLIIT** (Year 3), focused on full-stack web development.
+IT undergraduate at **SLIIT** (Year 3), focused on full stack web development.
+UI/UX Designer
 Currently looking for a **internship**.
 
 ## 🛠️ Tech Stack
