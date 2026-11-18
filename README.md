@@ -1,7 +1,7 @@
 # Hi, I'm Kavinda Kalum 👋
 
 IT undergraduate at **SLIIT** (Year 3), focused on full-stack web development.
-Currently looking for a **Software Engineering internship**.
+Currently looking for a **internship**.
 
 ## 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
